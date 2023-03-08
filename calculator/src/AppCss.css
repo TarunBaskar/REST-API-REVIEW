@@ -1,0 +1,33 @@
+.nav{
+    background-color: #66757F;
+    display: flex;
+    height: 80px;
+
+}
+#title{
+    color: white;
+    padding-top: 20px;
+}
+h1{
+    color: rgb(14, 14, 14);
+    margin-left: 50px;
+    
+}
+.nav-link{
+    justify-content: space-around;
+    display: flex;
+    position: absolute;
+    right: 50px;
+    align-items: center;
+    top:30px;
+    
+}
+button{
+    background-color: #66757F;
+    color:white;
+    border: #66757F;
+    cursor: pointer;
+}
+body{
+    background-color: #55ACEE;
+}
